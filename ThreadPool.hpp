@@ -7,6 +7,7 @@
 #include <memory>
 #include <condition_variable>
 #include <future>
+#include <functional>
 
 class ThreadPool
 {
